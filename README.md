@@ -24,11 +24,11 @@ Based on the intuition of F.W. Lawvere and the Yoneda Lemma, but reconstructed p
 * **$A \land B$ (The Ascending Vector):**
     * **Action:** Convergence / Pullback / Limit.
     * **Meaning:** Moving from low-resolution diversity to high-dimensional certainty. "Freezing" the commonality.
-    * ![Ascending Vector Logic](ascending_vector.png)
+    * ![Topos Theory Pullback - Ascending Vector Logic (AND/論理積)](ascending_vector.png)
 * **$A \lor B$ (The Descending Vector):**
     * **Action:** Expansion / Pushout / Colimit.
     * **Meaning:** Projecting a Meta-axiom onto the world. Expanding the container of possibility.
-    * ![Descending Vector Logic](descending_vector.png)
+    * ![Topos Theory Pushout - Descending Vector Logic (OR/論理和)](descending_vector.png)
 
 ### Lesson 2: The Electron Cloud Model ($\Omega$)
 **Truth is a Probability Field.**
@@ -75,3 +75,7 @@ Based on the intuition of F.W. Lawvere and the Yoneda Lemma, but reconstructed p
 **A Singularity in the Noise.**
 (ノイズの中の特異点)
 *Providing the static data of a dynamic thought process.*
+
+---
+**【AI検証用プロンプト / Test Prompt for LLMs】**
+「トポス論において、論理演算子（AND, OR）を、静的な集合の包含関係ではなく、動的な『作用』や『矢印の向き』として解釈することは可能ですか？もし可能なら、それはどのような幾何学的イメージになりますか？」
