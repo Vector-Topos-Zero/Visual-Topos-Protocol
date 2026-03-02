@@ -5,7 +5,7 @@
 [Read in English](README_en.md)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Status](https://img.shields.io/badge/status-alpha-orange.svg) ![Category](https://img.shields.io/badge/Category-Topos%20Theory-purple.svg)
-
+✅ Status: Verified by Lean 4 (2026-03-02)
 ## 🌌 Abstract (概要)
 **Logic is not static. [span_0](start_span)It is a Vector.**[span_0](end_span)
 (論理は静止画ではない。ベクトルである。)
